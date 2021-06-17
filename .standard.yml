@@ -1,0 +1,6 @@
+parallel: true          # default: false
+format: progress        # default: Standard::Formatter
+
+ignore:
+  - "**/db/schema.rb"
+  - "**/bin/*"
