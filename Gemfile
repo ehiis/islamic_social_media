@@ -83,3 +83,5 @@ end
 gem "webpacker", "= 6.0.0.beta.7"
 
 gem "hotwire-rails", "~> 0.1.3"
+
+gem "view_component", "~> 2.34"
