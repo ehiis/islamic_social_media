@@ -39,3 +39,11 @@
 yarn-debug.log*
 .yarn-integrity
 spec/examples.txt
+
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
